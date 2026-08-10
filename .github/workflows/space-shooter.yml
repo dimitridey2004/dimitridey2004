@@ -1,0 +1,44 @@
+name: Update Space Contribution Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install Space Shooter
+        run: python -m pip install --upgrade pip gh-space-shooter
+
+      - name: Generate contribution space shooter
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p assets
+          gh-space-shooter dimitridey2004 \
+            --output assets/space-shooter.gif \
+            --strategy random \
+            --fps 30
+
+      - name: Commit generated game
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/space-shooter.gif
+          git diff --cached --quiet || git commit -m "Update space shooter game GIF"
+          git push

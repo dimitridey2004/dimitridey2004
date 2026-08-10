@@ -1,63 +1,71 @@
-# dimitridey2004
+<div align="center">
 
-> Memorable developer positioning.
+<img src="./terminal-header.svg" alt="DIMITRI DEY terminal header" width="100%" />
 
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+</div>
 
-## Header
+<p align="center"><img src="./terminal-divider.svg" alt="Animated terminal divider" width="100%" /></p>
+
+<p align="center"><img src="./profile-card.svg" alt="DIMITRI DEY profile system card" width="100%" /></p>
+
+## `01` — ABOUT
+
+<p align="center"><img src="./about-card.svg" alt="About DIMITRI DEY" width="100%" /></p>
+
+## `02` — WHAT I BUILD
+
+<p align="center"><img src="./projects-card.svg" alt="DIMITRI DEY projects" width="100%" /></p>
+
+## `03` — ENGINEERING STYLE
+
+<p align="center"><img src="./philosophy-card.svg" alt="DIMITRI DEY engineering philosophy" width="100%" /></p>
+
+## `04` — TECH ENVIRONMENT
 
 <p align="center">
-  <img src="./terminal-header.svg" alt="Terminal ASCII Art Animation — DIMITRI DEY" width="850" />
-</p>
 
-Hi, I'm **dimitridey2004**. This README is tuned for **personal brand** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=dimitridey2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=dimitridey2004&theme=github-dark" alt="dimitridey2004 hero section" />
-  </picture>
-</p>
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=dimitridey2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=dimitridey2004&theme=github-dark" alt="dimitridey2004 about section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dimitridey2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=dimitridey2004&theme=github-dark" alt="dimitridey2004 stack section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dimitridey2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=dimitridey2004&theme=github-dark" alt="dimitridey2004 stats section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dimitridey2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=dimitridey2004&theme=github-dark" alt="dimitridey2004 projects section" />
-  </picture>
-</p>
-## Heatmap
-Animated year-long contribution calendar.
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=dimitridey2004&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=dimitridey2004&theme=github-dark" alt="dimitridey2004 social section" />
-  </picture>
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7ee787)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=7ee787)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=7ee787)
+
 </p>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
+<p align="center"><img src="./environment-card.svg" alt="DIMITRI DEY development environment" width="100%" /></p>
+
+## `05` — GITHUB ACTIVITY
+
+<p align="center"><img src="./terminal-divider.svg" alt="Animated terminal divider" width="100%" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimitridey2004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitridey2004&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=7ee787&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub streak" />
+</p>
+
+## `06` — CONNECT
+
+<p align="center"><img src="./terminal-divider.svg" alt="Animated terminal divider" width="100%" /></p>
+
+<div align="center">
+
+```text
+$ echo "Let's build something."
+
+GitHub :: github.com/dimitridey2004
+```
+
+</div>
+
+## `07` — SPACE CONTRIBUTION GAME 🚀
+
+<p align="center">
+  <img src="./assets/space-shooter.gif" alt="GitHub contributions transformed into a Space Shooter game" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Every contribution becomes an enemy. Every commit adds fuel. Keep coding. Keep shooting. 🚀</sub>
+</p>
+
+<p align="center"><img src="./terminal-divider.svg" alt="Animated terminal divider" width="100%" /></p>

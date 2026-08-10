@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="250" viewBox="0 0 850 250">
+<defs>
+<style>
+@keyframes scan{0%{transform:translateY(-230px);opacity:0}20%{opacity:.35}80%{opacity:.35}100%{transform:translateY(230px);opacity:0}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes blink{0%,45%,100%{opacity:1}50%,95%{opacity:.15}}
+@keyframes glow{0%,100%{filter:drop-shadow(0 0 1px #7ee787)}50%{filter:drop-shadow(0 0 7px #7ee787)}}
+@keyframes load{from{width:0}to{width:150px}}
+text{font-family:Consolas,'Liberation Mono',monospace}.bg{fill:#0d1117}.panel{fill:#111820;stroke:#30363d}.green{fill:#7ee787}.muted{fill:#8b949e}.blue{fill:#58a6ff}.orange{fill:#f0883e}.line{stroke:#30363d}.scan{animation:scan 5s linear infinite}.pulse{animation:pulse 1.8s ease-in-out infinite}.blink{animation:blink 1s step-end infinite}.glow{animation:glow 3s ease-in-out infinite}.load{animation:load 2.5s ease-out .6s both}
+</style>
+<clipPath id="clip"><rect x="1" y="1" width="848" height="248" rx="12"/></clipPath>
+</defs>
+<rect class="bg" x="1" y="1" width="848" height="248" rx="12" stroke="#30363d"/>
+<g clip-path="url(#clip)"><rect x="1" y="1" width="848" height="34" fill="#161b22"/><line class="line" x1="1" y1="34" x2="849" y2="34"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f57"/><circle cx="40" cy="18" r="6" fill="#febc2e"/><circle cx="60" cy="18" r="6" fill="#28c840"/>
+<text x="425" y="22" text-anchor="middle" font-size="11" class="muted">dimitridey2004@github: ~/profile</text>
+<rect class="scan" x="1" y="40" width="848" height="2" fill="#7ee787"/>
+<text x="30" y="66" font-size="11" class="green">❯ SYSTEM.IDENTITY</text><text x="780" y="66" text-anchor="end" font-size="10" class="green pulse">● ONLINE</text>
+<line class="line" x1="30" y1="78" x2="820" y2="78"/>
+<text x="30" y="104" font-size="11" class="muted">USER</text><text x="155" y="104" font-size="14" class="green glow">dimitridey2004</text>
+<text x="30" y="130" font-size="11" class="muted">ROLE</text><text x="155" y="130" font-size="13" class="orange">Full-Stack Engineer</text>
+<text x="30" y="156" font-size="11" class="muted">STATUS</text><text x="155" y="156" font-size="12" class="blue">Building · Learning · Shipping</text>
+<text x="30" y="182" font-size="11" class="muted">STACK</text><text x="155" y="182" font-size="12" class="muted">Web · APIs · Git · Linux · Open Source</text>
+<text x="30" y="215" font-size="11" class="green">❯ ./initialize.sh</text><text x="170" y="215" font-size="11" class="muted">████████████████████████████</text><rect class="load" x="170" y="207" height="10" rx="2" fill="#7ee787" opacity=".65"/>
+<rect class="blink" x="30" y="229" width="7" height="12" rx="1" fill="#7ee787"/><text x="45" y="239" font-size="10" class="muted">ready for the next build</text>
+</g></svg>
