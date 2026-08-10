@@ -37,11 +37,11 @@
 <p align="center"><img src="./terminal-divider.svg" alt="Animated terminal divider" width="100%" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimitridey2004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dimitridey2004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitridey2004&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=7ee787&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dimitridey2004&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=7ee787&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub streak" />
 </p>
 
 ## `06` — CONNECT
