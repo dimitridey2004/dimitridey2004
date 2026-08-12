@@ -68,4 +68,4 @@ GitHub :: github.com/dimitridey2004
   <sub>Every contribution becomes an enemy. Every commit adds fuel. Keep coding. Keep shooting. 🚀</sub>
 </p>
 
-<p align="center"><img src="./terminal-divider.svg" alt="Animated terminal divider" width="100%" /></p>
+<!-- <p align="center"><img src="./terminal-divider.svg" alt="Animated terminal divider" width="100%" /></p> -->
